@@ -6,6 +6,7 @@ gem 'rails', '3.0.6'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'mysql2', '0.2.7'
+gem 'rubycas-client', '2.2.1'
 
 group :development do
   gem 'sqlite3', '1.3.3'
